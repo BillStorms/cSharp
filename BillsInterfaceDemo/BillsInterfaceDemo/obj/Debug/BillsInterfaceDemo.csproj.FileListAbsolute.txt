@@ -1,0 +1,6 @@
+c:\users\bstorms\documents\visual studio 2013\Projects\SOAWithWCFandLINQ\Projects\BillsInterfaceDemo\BillsInterfaceDemo\bin\Debug\BillsInterfaceDemo.exe.config
+c:\users\bstorms\documents\visual studio 2013\Projects\SOAWithWCFandLINQ\Projects\BillsInterfaceDemo\BillsInterfaceDemo\obj\Debug\BillsInterfaceDemo.csprojResolveAssemblyReference.cache
+c:\users\bstorms\documents\visual studio 2013\Projects\SOAWithWCFandLINQ\Projects\BillsInterfaceDemo\BillsInterfaceDemo\bin\Debug\BillsInterfaceDemo.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\SOAWithWCFandLINQ\Projects\BillsInterfaceDemo\BillsInterfaceDemo\bin\Debug\BillsInterfaceDemo.pdb
+c:\users\bstorms\documents\visual studio 2013\Projects\SOAWithWCFandLINQ\Projects\BillsInterfaceDemo\BillsInterfaceDemo\obj\Debug\BillsInterfaceDemo.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\SOAWithWCFandLINQ\Projects\BillsInterfaceDemo\BillsInterfaceDemo\obj\Debug\BillsInterfaceDemo.pdb
