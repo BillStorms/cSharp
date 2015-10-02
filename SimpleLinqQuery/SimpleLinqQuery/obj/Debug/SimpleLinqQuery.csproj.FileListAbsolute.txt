@@ -1,0 +1,6 @@
+c:\users\bstorms\documents\visual studio 2013\Projects\SimpleLinqQuery\SimpleLinqQuery\bin\Debug\SimpleLinqQuery.exe.config
+c:\users\bstorms\documents\visual studio 2013\Projects\SimpleLinqQuery\SimpleLinqQuery\bin\Debug\SimpleLinqQuery.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\SimpleLinqQuery\SimpleLinqQuery\bin\Debug\SimpleLinqQuery.pdb
+c:\users\bstorms\documents\visual studio 2013\Projects\SimpleLinqQuery\SimpleLinqQuery\obj\Debug\SimpleLinqQuery.csprojResolveAssemblyReference.cache
+c:\users\bstorms\documents\visual studio 2013\Projects\SimpleLinqQuery\SimpleLinqQuery\obj\Debug\SimpleLinqQuery.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\SimpleLinqQuery\SimpleLinqQuery\obj\Debug\SimpleLinqQuery.pdb
