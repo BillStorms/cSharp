@@ -70,7 +70,7 @@ namespace SimpleLinqQuery
             {
                 Console.WriteLine("Name: {0} \nTitle: {1}\nSecret Skill: {2}\n", devs.Name, devs.Title, devs.SecretSkill);
             }
-            Console.WriteLine("Hit any key to continue.");
+            Console.WriteLine("Press any key to continue.");
             Console.ReadLine();
         }
 
