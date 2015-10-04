@@ -4,6 +4,9 @@ using System.Threading;
 
 namespace SumofPrimeNumbersChallenge
 {
+    /// <summary>
+    /// Code challenged to print the sum of the first 1000 primes numnber.
+    /// </summary>
     internal class Program
 
     {
@@ -11,17 +14,16 @@ namespace SumofPrimeNumbersChallenge
         {
             int primeCount = 1;
             int sum = 0;
-            bool isPrime = true;
+            bool primeResult;
             int i = 2;
-
-            Console.WriteLine("Prime Numbers : ");
+            
             while (primeCount <= 1000)
             {
-               
-                bool primeResult;
                 IsPrime testPrime = new IsPrime();
                 primeResult = testPrime.isPrimeNumber(i);
 
+                /// If the number is prime it is added to the sum and the counter goes up by one.
+                
                 if (primeResult)
                 {
                     primeCount ++;
@@ -30,11 +32,16 @@ namespace SumofPrimeNumbersChallenge
                 
                 i++;
             }
+            
+            /// Output.
             Console.WriteLine("The sum of the first 1000 prime numbers is {0}.", sum);
             Console.ReadKey();
         }
     }
 
+    /// <summary>
+    /// This class contains the method for determining if the input number is prime or not and returns a bool value of true or false.
+    /// </summary>
     class IsPrime
     {
         public bool isPrimeNumber(int number)
