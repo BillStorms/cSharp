@@ -1,0 +1,6 @@
+c:\users\bstorms\documents\visual studio 2013\Projects\SumofPrimeNumbersChallenge\SumofPrimeNumbersChallenge\bin\Debug\SumofPrimeNumbersChallenge.exe.config
+c:\users\bstorms\documents\visual studio 2013\Projects\SumofPrimeNumbersChallenge\SumofPrimeNumbersChallenge\bin\Debug\SumofPrimeNumbersChallenge.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\SumofPrimeNumbersChallenge\SumofPrimeNumbersChallenge\bin\Debug\SumofPrimeNumbersChallenge.pdb
+c:\users\bstorms\documents\visual studio 2013\Projects\SumofPrimeNumbersChallenge\SumofPrimeNumbersChallenge\obj\Debug\SumofPrimeNumbersChallenge.csprojResolveAssemblyReference.cache
+c:\users\bstorms\documents\visual studio 2013\Projects\SumofPrimeNumbersChallenge\SumofPrimeNumbersChallenge\obj\Debug\SumofPrimeNumbersChallenge.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\SumofPrimeNumbersChallenge\SumofPrimeNumbersChallenge\obj\Debug\SumofPrimeNumbersChallenge.pdb
