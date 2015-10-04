@@ -3,36 +3,36 @@ using System.Collections.Generic;
 
 namespace SumofPrimeNumbersChallenge
 {
-    internal class Program
+     class Program
+    
     {
-        private static void Main()
+        static void Main(string[] args)
         {
-            string num1String;
-
-            int num1;
-            List<string> primeNumbers = new List<string>();
-
-            for (int i = 2; i < 1000; i++)
+            int sum = 0;
+            bool isPrime = true;
+            Console.WriteLine("Prime Numbers : ");
+            for (int i = 2; i <= 1000; i++)
             {
-                num1 = i;
-
+                for (int j = 2; j <= 1000; j++)
                 {
-                    for (int a = 2; a <= num1/2; a++)
+ 
+                    if (i != j && i % j == 0)
                     {
-                        if (num1%a == 0)
-                        {
-                            return;
-                        }
-                        num1String = num1.ToString();
-                        primeNumbers.Add(num1String);
+                        isPrime = false;
+                        break;
                     }
+ 
                 }
+                if (isPrime)
+                {
+                    sum = sum + i;
+                }
+                isPrime = true;
             }
-
-            Console.WriteLine(primeNumbers);
-            Console.ReadLine();
+            Console.WriteLine("The sum of all prime numbers under 1000 is {0}.", sum);
+            Console.ReadKey();
         }
-    }   
+    }
 }
 
 
