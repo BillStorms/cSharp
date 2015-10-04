@@ -1,39 +1,56 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace SumofPrimeNumbersChallenge
 {
-     class Program
-    
+    internal class Program
+
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
+            int primeCount = 1;
             int sum = 0;
             bool isPrime = true;
+            int i = 2;
+
             Console.WriteLine("Prime Numbers : ");
-            for (int i = 2; i <= 1000; i++)
+            while (primeCount <= 1000)
             {
-                for (int j = 2; j <= 1000; j++)
+               
+                bool primeResult;
+                IsPrime testPrime = new IsPrime();
+                primeResult = testPrime.isPrimeNumber(i);
+
+                if (primeResult)
                 {
- 
-                    if (i != j && i % j == 0)
-                    {
-                        isPrime = false;
-                        break;
-                    }
- 
-                }
-                if (isPrime)
-                {
+                    primeCount ++;
                     sum = sum + i;
                 }
-                isPrime = true;
+                
+                i++;
             }
-            Console.WriteLine("The sum of all prime numbers under 1000 is {0}.", sum);
+            Console.WriteLine("The sum of the first 1000 prime numbers is {0}.", sum);
             Console.ReadKey();
         }
     }
+
+    class IsPrime
+    {
+        public bool isPrimeNumber(int number)
+        {
+            for (int j = 2; j <= number/2; j++)
+            {
+                if (number != j && number % j == 0)
+                {
+                    return false;
+                }
+            }
+            return true;
+        }
+    }
 }
+
 
 
 
