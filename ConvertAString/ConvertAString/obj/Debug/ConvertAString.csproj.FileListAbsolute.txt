@@ -1,0 +1,6 @@
+c:\users\bstorms\documents\visual studio 2013\Projects\ConvertAString\ConvertAString\bin\Debug\ConvertAString.exe.config
+c:\users\bstorms\documents\visual studio 2013\Projects\ConvertAString\ConvertAString\bin\Debug\ConvertAString.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\ConvertAString\ConvertAString\bin\Debug\ConvertAString.pdb
+c:\users\bstorms\documents\visual studio 2013\Projects\ConvertAString\ConvertAString\obj\Debug\ConvertAString.csprojResolveAssemblyReference.cache
+c:\users\bstorms\documents\visual studio 2013\Projects\ConvertAString\ConvertAString\obj\Debug\ConvertAString.exe
+c:\users\bstorms\documents\visual studio 2013\Projects\ConvertAString\ConvertAString\obj\Debug\ConvertAString.pdb
