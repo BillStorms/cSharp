@@ -1,0 +1,6 @@
+c:\users\bstorms\documents\visual studio 2013\Projects\JrDevTestWCFProject\JrDevTestWCFProject\bin\Debug\JrDevTestWCFProject.dll.config
+c:\users\bstorms\documents\visual studio 2013\Projects\JrDevTestWCFProject\JrDevTestWCFProject\bin\Debug\JrDevTestWCFProject.dll
+c:\users\bstorms\documents\visual studio 2013\Projects\JrDevTestWCFProject\JrDevTestWCFProject\bin\Debug\JrDevTestWCFProject.pdb
+c:\users\bstorms\documents\visual studio 2013\Projects\JrDevTestWCFProject\JrDevTestWCFProject\obj\Debug\JrDevTestWCFProject.csprojResolveAssemblyReference.cache
+c:\users\bstorms\documents\visual studio 2013\Projects\JrDevTestWCFProject\JrDevTestWCFProject\obj\Debug\JrDevTestWCFProject.dll
+c:\users\bstorms\documents\visual studio 2013\Projects\JrDevTestWCFProject\JrDevTestWCFProject\obj\Debug\JrDevTestWCFProject.pdb
